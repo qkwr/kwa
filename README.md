@@ -1,2 +1,2 @@
 # kwa
-normal web
+teay web
